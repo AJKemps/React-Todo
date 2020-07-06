@@ -1,0 +1,12 @@
+* {
+  border: 1px solid red;
+}
+
+body {
+  padding: 5%;
+}
+
+.todocompleted {
+  text-decoration: line-through;
+  color: red;
+}
